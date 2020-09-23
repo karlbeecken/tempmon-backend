@@ -9,7 +9,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.10.6",
     "nodemon": "^2.0.4",
-    "passport": "^0.4.1"
+    "passport": "^0.4.1",
+    "passport-auth-token": "^1.0.1"
   },
   "scripts": {
     "start": "nodemon ./app.js"
